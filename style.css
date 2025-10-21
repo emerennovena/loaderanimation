@@ -9,20 +9,20 @@ body {
 }
 
 .inside-loader {
-    width: 90px;
-    height: 90px;
-    border: 6px solid lightskyblue;
-    border-top: 6px solid transparent;
+    width: 80px;
+    height: 80px;
+    border: 7px solid lightskyblue;
+    border-top: 7px solid transparent;
     border-radius: 50%;
     animation: spin 2s linear infinite;
     position: absolute;
 }
 
 .circle {
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     border-radius: 80%;
-    border: 1.8px solid white;
+    border: 7px solid white;
     background-color: lightgray;
     display: flex;
     justify-content: center;
